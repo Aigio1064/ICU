@@ -2,9 +2,9 @@
 name: "[yun]: Request to add a resource"
 about: The request adds the specified resource to the yun.aigio1064.top, either a
   name or a specified link.
-title: ''
+title: "[yun]:"
 labels: enhancement
-assignees: ''
+assignees: Aigio1064
 
 ---
 
